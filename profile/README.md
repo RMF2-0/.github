@@ -1,4 +1,4 @@
-# RMF 2.0
+# Robotics Middleware Framework (RMF) 2.0
 
 ## Introduction
 
