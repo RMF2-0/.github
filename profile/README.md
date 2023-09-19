@@ -5,11 +5,13 @@
 
 ## Issue Template
 
-1. What is the issue
+1. Issue summary
 
-2. Steps to recreate the issue
+2. Issue details
 
-3. Suggestion / Proposed solution
+3. Steps to recreate the issue
+
+4. Suggestion / Proposed solution
 
 
 ## Stakeholders
